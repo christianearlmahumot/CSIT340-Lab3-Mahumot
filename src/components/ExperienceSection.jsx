@@ -19,10 +19,10 @@ function ExperienceSection() {
           description="Now in my fourth year, focusing on web and mobile development."
         />
         <TimelineItem
-          period="Until 2023"
-          title="Senior High School"
+          period="2013"
+          title="High School"
           place="Oroquieta City"
-          description="Where I first got into computers and programming."
+          description="Graduated from high school."
         />
       </ol>
     </section>
