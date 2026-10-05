@@ -8,6 +8,7 @@ import ContactSection from './components/ContactSection.jsx'
 import Footer from './components/Footer.jsx'
 
 function App() {
+  
   return (
     <>
       <Navbar />
